@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9373d9d-ffe1-4596-bb0b-c70b63270df4" name="Default Changelist" comment="" />
+    <list default="true" id="c9373d9d-ffe1-4596-bb0b-c70b63270df4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,10 +17,10 @@
     <session id="-975997998">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="4" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.0" value="8" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -49,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/sign.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -138,12 +140,20 @@
       <workItem from="1537860002023" duration="11000" />
       <workItem from="1537922627771" duration="4000" />
       <workItem from="1537922672607" duration="3000" />
-      <workItem from="1537927080193" duration="504000" />
+      <workItem from="1537927080193" duration="645000" />
+      <workItem from="1537971464386" duration="13000" />
+      <workItem from="1537971614495" duration="5000" />
+      <workItem from="1537971623634" duration="2000" />
+      <workItem from="1538014792765" duration="2000" />
+      <workItem from="1538015006873" duration="1000" />
+      <workItem from="1538015099562" duration="11000" />
+      <workItem from="1538015119501" duration="2000" />
+      <workItem from="1538015288806" duration="31000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1063000" />
+    <option name="totallyTimeSpent" value="1271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
@@ -178,7 +188,7 @@
     <entry file="file://$PROJECT_DIR$/sign.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
         </state>
       </provider>
     </entry>
